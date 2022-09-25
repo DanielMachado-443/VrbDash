@@ -1,0 +1,46 @@
+body {
+  font-size: 30px;
+
+  background-color: rgba(0, 0, 50);
+  background-image: url(/assets/Nurb.jpg);
+  background-size: 100%;
+  align-items: center;
+}
+
+.vrbLogo {
+  display: inline-flex;
+  position: relative;
+  max-width: 20%;
+  max-height: 20%;
+
+  margin-bottom: none;
+}
+
+img {
+  max-width: 60%;
+  max-height: 100%;
+  position: relative;
+  padding: 20px 20px 20px 15px;
+}
+
+.vrbLogo img {
+  position: relative;
+}
+
+#gap {
+  position: relative;
+  left: 250%;
+  max-width: 100%;
+}
+
+#app {
+  position: relative;
+  word-wrap: break-word;
+
+  margin-top: none;
+  margin-left: 18%;
+
+  background-color: pink;
+  max-width: 50%;
+  height: 200px;
+}
